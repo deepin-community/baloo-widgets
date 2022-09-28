@@ -1,0 +1,207 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Ni Hui <shuizhuyuanluo@126.com>, 2012.
+# FengChao <rainofchaos@gmail.com>, 2012.
+# Weng Xuetian <wengxt@gmail.com>, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: kdeorg\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-24 00:17+0000\n"
+"PO-Revision-Date: 2021-07-26 13:49\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: kdeorg\n"
+"X-Crowdin-Project-ID: 269464\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /kf5-stable/messages/baloo-widgets/baloowidgets5.pot\n"
+"X-Crowdin-File-ID: 4213\n"
+
+#: src/filemetadataprovider.cpp:163 src/filemetadataprovider.cpp:169
+#: src/filemetadataprovider.cpp:239 src/filemetadataprovider.cpp:242
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "%1 项"
+
+#: src/filemetadataprovider.cpp:417 src/filemetadataprovider.cpp:433
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr "备注"
+
+#: src/filemetadataprovider.cpp:418
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr "创建时间"
+
+#: src/filemetadataprovider.cpp:419
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr "访问时间"
+
+#: src/filemetadataprovider.cpp:420
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr "修改时间"
+
+#: src/filemetadataprovider.cpp:421
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr "所有者"
+
+#: src/filemetadataprovider.cpp:422
+#, kde-format
+msgctxt "@label"
+msgid "Group"
+msgstr "用户组"
+
+#: src/filemetadataprovider.cpp:423
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr "权限"
+
+#: src/filemetadataprovider.cpp:424 src/filemetadataprovider.cpp:432
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr "评分"
+
+#: src/filemetadataprovider.cpp:425
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr "大小"
+
+#: src/filemetadataprovider.cpp:426 src/filemetadataprovider.cpp:431
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr "标签"
+
+#: src/filemetadataprovider.cpp:427
+#, kde-format
+msgctxt "@label"
+msgid "Total Size"
+msgstr "总大小"
+
+#: src/filemetadataprovider.cpp:428
+#, kde-format
+msgctxt "@label"
+msgid "Hidden items"
+msgstr "隐藏项目"
+
+#: src/filemetadataprovider.cpp:429
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr "类型"
+
+#: src/filemetadataprovider.cpp:430
+#, kde-format
+msgctxt "@label"
+msgid "Link to"
+msgstr "链接到"
+
+#: src/filemetadataprovider.cpp:434
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr "下载来源"
+
+#: src/filepropertiesplugin/baloofilepropertiesplugin.cpp:66
+#, kde-format
+msgctxt "Tab page with file meta data"
+msgid "&Details"
+msgstr "详情(&D)"
+
+#: src/kcommentwidget.cpp:67 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Add..."
+msgstr "添加..."
+
+#: src/kcommentwidget.cpp:73 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Edit..."
+msgstr "编辑..."
+
+#: src/kcommentwidget.cpp:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Comment"
+msgstr "编辑评论"
+
+#: src/kcommentwidget.cpp:120
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Comment"
+msgstr "添加注释"
+
+#: src/keditcommentdialog.cpp:45 src/kedittagsdialog.cpp:52
+#, kde-format
+msgid "Save"
+msgstr "保存"
+
+#: src/kedittagsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Tags"
+msgstr "编辑标签"
+
+#: src/kedittagsdialog.cpp:48
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Tags"
+msgstr "添加标记"
+
+#: src/kedittagsdialog.cpp:62
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Configure which tags should be applied."
+msgstr "配置应该应用哪些标记。"
+
+#: src/kedittagsdialog.cpp:70
+#, kde-format
+msgctxt "@label"
+msgid "Create new tag:"
+msgstr "创建新标签："
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:43
+#, kde-format
+msgid "Assign Tags"
+msgstr "分配标签"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:77
+#, kde-format
+msgid "Create New..."
+msgstr "新建..."
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:81
+#, kde-format
+msgid "New tag"
+msgstr "新建标签"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:81
+#, kde-format
+msgid "New tag:"
+msgstr "新标签："
+
+#: src/widgetfactory.cpp:85 src/widgetfactory.cpp:95
+#, kde-format
+msgctxt "String list separator"
+msgid ", "
+msgstr ", "

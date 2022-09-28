@@ -1,0 +1,230 @@
+# Translation of baloowidgets5.po to Euskara/Basque (eu).
+# Copyright (C) 2018, Free Software Foundation.
+# Copyright (C) 2019-2020, This file is copyright:
+# This file is distributed under the same license as the baloo-widgets package.
+# KDE euskaratzeko proiektuaren arduraduna <xalba@euskalnet.net>.
+#
+# Translators:
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: baloowidgets5\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-04-24 00:17+0000\n"
+"PO-Revision-Date: 2020-01-11 08:39+0100\n"
+"Last-Translator: Iñigo Salvador Azurmendi <xalba@euskalnet.net>\n"
+"Language-Team: Basque <kde-i18n-eu@kde.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 19.12.1\n"
+
+#: src/filemetadataprovider.cpp:163 src/filemetadataprovider.cpp:169
+#: src/filemetadataprovider.cpp:239 src/filemetadataprovider.cpp:242
+#, kde-format
+msgctxt "@item:intable"
+msgid "%1 item"
+msgid_plural "%1 items"
+msgstr[0] "Elementu %1"
+msgstr[1] "%1 elementu"
+
+#: src/filemetadataprovider.cpp:417 src/filemetadataprovider.cpp:433
+#, kde-format
+msgctxt "@label"
+msgid "Comment"
+msgstr "Iruzkina"
+
+#: src/filemetadataprovider.cpp:418
+#, kde-format
+msgctxt "@label"
+msgid "Created"
+msgstr "Sortua"
+
+#: src/filemetadataprovider.cpp:419
+#, kde-format
+msgctxt "@label"
+msgid "Accessed"
+msgstr "Atzitua"
+
+#: src/filemetadataprovider.cpp:420
+#, kde-format
+msgctxt "@label"
+msgid "Modified"
+msgstr "Aldatua"
+
+#: src/filemetadataprovider.cpp:421
+#, kde-format
+msgctxt "@label"
+msgid "Owner"
+msgstr "Jabea"
+
+#: src/filemetadataprovider.cpp:422
+#, kde-format
+msgctxt "@label"
+msgid "Group"
+msgstr "Taldea"
+
+#: src/filemetadataprovider.cpp:423
+#, kde-format
+msgctxt "@label"
+msgid "Permissions"
+msgstr "Baimenak"
+
+#: src/filemetadataprovider.cpp:424 src/filemetadataprovider.cpp:432
+#, kde-format
+msgctxt "@label"
+msgid "Rating"
+msgstr "Balorazioa"
+
+#: src/filemetadataprovider.cpp:425
+#, kde-format
+msgctxt "@label"
+msgid "Size"
+msgstr "Neurria"
+
+#: src/filemetadataprovider.cpp:426 src/filemetadataprovider.cpp:431
+#, kde-format
+msgctxt "@label"
+msgid "Tags"
+msgstr "Etiketak"
+
+#: src/filemetadataprovider.cpp:427
+#, kde-format
+msgctxt "@label"
+msgid "Total Size"
+msgstr "Neurri osoa"
+
+#: src/filemetadataprovider.cpp:428
+#, kde-format
+msgctxt "@label"
+msgid "Hidden items"
+msgstr "Ezkutuko elementuak"
+
+#: src/filemetadataprovider.cpp:429
+#, kde-format
+msgctxt "@label"
+msgid "Type"
+msgstr "Mota"
+
+#: src/filemetadataprovider.cpp:430
+#, kde-format
+msgctxt "@label"
+msgid "Link to"
+msgstr "Estekatu hona"
+
+#: src/filemetadataprovider.cpp:434
+#, kde-format
+msgctxt "@label"
+msgid "Downloaded From"
+msgstr "Hemendik jaitsia"
+
+#: src/filepropertiesplugin/baloofilepropertiesplugin.cpp:66
+#, kde-format
+msgctxt "Tab page with file meta data"
+msgid "&Details"
+msgstr "&Xehetasunak"
+
+#: src/kcommentwidget.cpp:67 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Add..."
+msgstr "Gehitu..."
+
+#: src/kcommentwidget.cpp:73 src/tagwidget.cpp:85
+#, kde-format
+msgctxt "@label"
+msgid "Edit..."
+msgstr "Editatu..."
+
+#: src/kcommentwidget.cpp:119
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Comment"
+msgstr "Editatu iruzkina"
+
+#: src/kcommentwidget.cpp:120
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Comment"
+msgstr "Gehitu iruzkina"
+
+#: src/keditcommentdialog.cpp:45 src/kedittagsdialog.cpp:52
+#, kde-format
+msgid "Save"
+msgstr "Gorde"
+
+#: src/kedittagsdialog.cpp:47
+#, kde-format
+msgctxt "@title:window"
+msgid "Edit Tags"
+msgstr "Editatu etiketak"
+
+#: src/kedittagsdialog.cpp:48
+#, kde-format
+msgctxt "@title:window"
+msgid "Add Tags"
+msgstr "Gehitu etiketak"
+
+#: src/kedittagsdialog.cpp:62
+#, kde-format
+msgctxt "@label:textbox"
+msgid "Configure which tags should be applied."
+msgstr "Konfiguratu zein etiketa ezarri behar diren."
+
+#: src/kedittagsdialog.cpp:70
+#, kde-format
+msgctxt "@label"
+msgid "Create new tag:"
+msgstr "Sortu etiketa berria:"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:43
+#, kde-format
+msgid "Assign Tags"
+msgstr "Esleitu etiketak"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:77
+#, kde-format
+msgid "Create New..."
+msgstr "Sortu... berria"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:81
+#, kde-format
+msgid "New tag"
+msgstr "Etiketa berria"
+
+#: src/tagsfileitemactionplugin/tagsfileitemaction.cpp:81
+#, kde-format
+msgid "New tag:"
+msgstr "Etiketa berria:"
+
+#: src/widgetfactory.cpp:85 src/widgetfactory.cpp:95
+#, kde-format
+msgctxt "String list separator"
+msgid ", "
+msgstr ", "
+
+#~ msgctxt "unknown file size"
+#~ msgid "Unknown"
+#~ msgstr "Ezezaguna"
+
+#~ msgctxt "@label bitrate (per second)"
+#~ msgid "%1/s"
+#~ msgstr "%1/s"
+
+#~ msgctxt "@label samplerate in kilohertz"
+#~ msgid "%1 kHz"
+#~ msgstr "%1 kHz"
+
+#~ msgctxt "@label"
+#~ msgid "Change..."
+#~ msgstr "Aldatu..."
+
+#~ msgctxt "@title:window"
+#~ msgid "Change Comment"
+#~ msgstr "Aldatu iruzkina"
+
+#~ msgctxt "@title:window"
+#~ msgid "Change Tags"
+#~ msgstr "Aldatu etiketak"

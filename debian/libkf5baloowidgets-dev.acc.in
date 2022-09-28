@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptor>
+
+<version>
+    15.08.0
+</version>
+
+<headers>
+    /usr/include/KF5/BalooWidgets
+</headers>
+
+<libs>
+    /usr/lib/@@DEB_HOST_MULTIARCH@@/libKF5BalooWidgets.so
+</libs>
+
+<gcc_options>
+    -fPIC
+    -I/usr/lib/@@DEB_HOST_MULTIARCH@@/qt5/mkspecs/common/posix/
+</gcc_options>
+
+</descriptor>
